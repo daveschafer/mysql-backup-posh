@@ -1,0 +1,4 @@
+[client]
+host=ip-or-hostname-of-your-mysql-server
+user=your-username
+password=supersecurepassword
